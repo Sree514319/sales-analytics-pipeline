@@ -37,6 +37,7 @@ The Power BI report (`Sales Dashboard in PowerBI.pbix`) includes:
 - Sales by region
 - Top 10 products by profit
 - Monthly sales trend
+
 ![Dashboard Preview](dashboard_preview.png)
 
 
